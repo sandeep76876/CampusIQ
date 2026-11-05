@@ -1,0 +1,2 @@
+-- Development Seed: Departments, sample courses, and trial subjects
+-- Sample data placeholder for local development

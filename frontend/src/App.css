@@ -1,0 +1,6 @@
+/* CampusIQ global layout and component utility styling */
+.app-container {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}

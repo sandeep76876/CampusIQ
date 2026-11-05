@@ -1,0 +1,2 @@
+-- Migration 001: Initial migration establishing core schema tables
+-- Execute schema files in sequence: 01, 02, 03, 04, 05
